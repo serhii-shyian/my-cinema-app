@@ -35,7 +35,7 @@ it implemented using n-tired architecture in accordance with SOLID and REST prin
 - Service - Application logic layer
 - Controllers - Presentation layer
 
-## 🤖 Used technologies
+## 🧬 Used technologies
 
 ---
 **The following technologies were used during creation:**
@@ -86,7 +86,11 @@ password: 12345678;
 login: emma@me.com;
 password: 87654321;
 ```
-13. Register at [Postman](https://www.postman.com/) and start testing the service
+
+## 🤖 How to test the project
+
+---
+Register at [Postman](https://www.postman.com/) and start testing the service
 
 | **Http** | **Endpoint**                   | **Roles**   | **Description**                                               |
 |----------|--------------------------------|-------------|---------------------------------------------------------------|
