@@ -76,7 +76,13 @@ db.password=YOUR_PASSWORD;
 - then delete link that appeared after the "/"
 - to save the results press "OK"
 11. To run the project press the Run button
-12. Enter login and password:
+
+## 🤖 How to test the project
+
+---
+**Register at [Postman](https://www.postman.com/) and start testing the service**
+
+You can use the following login and password for testing
 ```java
 #Admin role
 login: john@me.com;
@@ -86,11 +92,6 @@ password: 12345678;
 login: emma@me.com;
 password: 87654321;
 ```
-
-## 🤖 How to test the project
-
----
-Register at [Postman](https://www.postman.com/) and start testing the service
 
 | **Http** | **Endpoint**                   | **Roles**   | **Description**                                               |
 |----------|--------------------------------|-------------|---------------------------------------------------------------|
